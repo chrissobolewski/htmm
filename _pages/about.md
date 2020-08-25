@@ -23,6 +23,10 @@ This will be a valuable resource for you if you:
 - seek advice on managing your [[Personal budget]]
 - want to make more money, either through [[Investments]] or just [[Increasing your income]]
 
+I promise this page will respect your time. My goal here is to distill the personal finance concepts (which can often seem complex and overwhelming) into essentials and describe it clearly.
+
+I will also respect your privacy. You won't find here any trackers from Facebook, Google, or anything like that.
+
 ### Contact me
 ✉️ Ask questions, discuss, and comment — at me <a href="https://twitter.com/howtomngmoney">@howtomngmoney</a> on Twitter.
 
