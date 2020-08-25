@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Spend less than you make.md",
+            "file": "Lifestyle expenses.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spend less than you make.md"
+                "file": "Lifestyle expenses.md"
               }
             }
           },
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spend less than you make.md"
+                "file": "Lifestyle expenses.md"
               }
             }
           }
@@ -99,10 +99,10 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Spend less than you make.md",
+    "Inbox/Lifestyle expenses.md",
     "Minimalist personal budget.md",
-    "Emergency fund.md",
-    "Inbox/Savings.md",
-    "Inbox/{{page.image}}.md"
+    "Inbox/Be smart about your expenses.md",
+    "Inbox/Increasing your income.md",
+    "Inbox/Credit card.md"
   ]
 }
