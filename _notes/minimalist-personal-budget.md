@@ -28,7 +28,7 @@ We don't necessarily *need* those to stay alive, but they make living more pleas
 Lastly, 20% of your income should be meant for [[Savings]]. Put this portion away and direct it to your:
 - [[Emergency fund]]
 - [[Investments]] (preferably [[ETF]])
-- Paying off your [[Credit card]] and [[Debt]]
+- Paying off your [[Credit card]] and other [[Debt]]
 - Retirement fund
 
 It's really simple and easy to start. With only three categories to track, you really have no excuses left.
