@@ -3,9 +3,7 @@ title: Minimalist personal budget
 image: /assets/50-30-20.JPG
 ---
 
-
-
-This is a good start for people who are just beginning with [[Personal finance]]. You don't need to start with an elaborate budget with a myriad of expense categories. Nor do you need expensive budgeting apps to get you started.
+This is a good start for people who are just beginning with <a class="internal-link" href="/index">personal finance management</a>. You don't need to start with an elaborate budget with a myriad of expense categories. Nor do you need expensive budgeting apps to get you started.
 
 What you need is to follow a simple rule of three numbers: **50-30-20**.
 

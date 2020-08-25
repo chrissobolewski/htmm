@@ -2,7 +2,7 @@
 title: Spend less than you make
 ---
 
-This is the key to successful [[Personal finance]] management, getting out of [[Debt]], accumulating [[Savings]], and reaching [[Financial stability]].
+This is the key to successful <a class="internal-link" href="/index">personal finance management</a>, getting out of [[Debt]], accumulating [[Savings]], and reaching [[Financial stability]].
 
 All the finance and money management advice boils down to this one. You need to keep your expenses below your income.
 

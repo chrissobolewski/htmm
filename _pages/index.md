@@ -15,7 +15,6 @@ permalink: /
 - Read more <a class="internal-link" href="/about">about this page</a>.
 
 ### Fundamentals
-- [[Personal finance]]
 - [[Spend less than you make]]
 
 ### Managing your personal budget
