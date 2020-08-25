@@ -13,7 +13,14 @@ permalink: /
   Every note here is a living document. New ideas, examples, and insights will be added over time. Make sure to visit often!
 </p>
 
-👋 Hi! My name is Chris and I made this site to help you manage your money, grow your [[Savings]], make wise [[Investments]], and reach [[Financial stability]]. Take control of your [[Personal finance]].
+## Start here
+
+### Fundamentals
+- [[Personal finance]]
+- [[Spend less than you make]]
+
+### Managing your personal budget
+- [[Minimalist personal budget]]
 
 <style>
   .wrapper {
