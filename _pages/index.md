@@ -11,7 +11,7 @@ permalink: /
   Take a look at <span style="font-weight: bold">[[Your first seed]]</span> to get started on your exploration.
 </p>
 
-👋 Hi! My name is Chris and I made this site to help you manage your money, grow your [[savings]], make wise [[investments]], and reach [[financial-stability]]. Take control of your [[personal-finance]].
+👋 Hi! My name is Chris and I made this site to help you manage your money, grow your [[Savings]], make wise [[Investments]], and reach [[Financial stability]]. Take control of your [[Personal finance]].
 
 <style>
   .wrapper {
