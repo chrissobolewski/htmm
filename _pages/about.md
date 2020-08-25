@@ -23,6 +23,9 @@ This will be a valuable resource for you if you:
 - seek advice on managing your [[Personal budget]]
 - want to make more money, either through [[Investments]] or just [[Increasing your income]]
 
+### Contact me
+Ask questions, discuss, and comment on <a href="https://twitter.com/howtomngmoney">Twitter</a>.
+
 ### Constant work in progress
 Every note you see here is a [[Living document]]. I update this page constantly. This means you might see seams here and there. Like some phrases in `[[ ]]` brackets. In the future, they will lead to a separate page with further explanation. If you see the brackets, it just means the target page is not ready yet (it will be, eventually).
 
