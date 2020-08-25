@@ -12,6 +12,7 @@ permalink: /
 </p>
 
 ## Start here
+- Read more <a class="internal-link" href="/about">about this page</a>.
 
 ### Fundamentals
 - [[Personal finance]]
