@@ -35,13 +35,6 @@ Be always up to date — subscribe to my newsletter (no spam, just relevant noti
 
 You can also follow the development of this site through <a href="https://twitter.com/howtomngmoney/">Twitter</a> and via my <a href="https://howtomanage.money/feed.xml">RSS feed</a>.
 
-<h2>Latest</h2>
-<ul class="listing">
-{%- for item in htmm.rss.channel.item.slice(0,4) -%}
-  <li><a href="{{ item.link }}{{ site.utm }}">{{ item.title }}</a></li>
-{%- endfor -%}
-</ul>
-
 <style>
   .wrapper {
     max-width: 46em;
