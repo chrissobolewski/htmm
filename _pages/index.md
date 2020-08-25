@@ -16,6 +16,7 @@ permalink: /
 
 ### Fundamentals
 - [[Spend less than you make]]
+- [[Emergency fund]]
 
 ### Managing your personal budget
 - [[Minimalist personal budget]]
