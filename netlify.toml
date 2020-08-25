@@ -11,4 +11,4 @@
     [[plugins.inputs.feeds]]
       name = "htmm"
       url = "https://howtomanage.money/feed.xml"
-      ttl = 86400
+      ttl = 3600
