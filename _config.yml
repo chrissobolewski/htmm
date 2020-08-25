@@ -1,15 +1,14 @@
-title:               How to manage money?
+title:               How to manage money
 description:         Discover the smarter way to manage your finances
 author:              Chris Sobolewski
 include:             ['_pages']
 
 permalink:           pretty
 relative_permalinks: false
-url: https://howtomanage.money
+url: https://howtomanage.money/
 
 plugins:
   - jekyll-last-modified-at
-#  - jekyll-feed
 
 sass:
   sass_dir:          _sass
