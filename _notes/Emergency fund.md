@@ -1,6 +1,6 @@
 ---
 title: Emergency fund
-date: 2020-08-25 20:21:11 +0900
+date: 2020-08-25 20:21:11 +0800
 ---
 
 > Hope for the best, but be prepared for the worst.
