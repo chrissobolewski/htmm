@@ -4,7 +4,7 @@ title: Minimalist personal budget
 
 This is a good start for people who are just beginning with [[Personal finance]]. You don't need to start with an elaborate budget with a myriad of expense categories. Nor do you need expensive budgeting apps to get you started.
 
-What you need is to follow a simple rule of three numbers: 50-30-20.
+What you need is to follow a simple rule of three numbers: **50-30-20**.
 
 What do they stand for? Those numbers tell you how to--in some approximation, of course--allocate your after-tax income.
 
@@ -33,4 +33,4 @@ Lastly, 20% of your income should be meant for [[Savings]]. Put this portion awa
 
 It's really simple and easy to start. With only three categories to track, you really have no excuses left.
 
-And remember, [[Spend less than you make]]. 50% + 30% + 20% = 100%. Not 120%, not 150%, not 200%.
+And remember, [[Spend less than you make]]. 50% + 30% + 20% = 100%. Not 120%, not 150%, not 200%. Do *NOT* exceed your budget.
