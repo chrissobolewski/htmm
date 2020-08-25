@@ -5,6 +5,7 @@ include:             ['_pages']
 
 permalink:           pretty
 relative_permalinks: false
+url: https://howtomanage.money
 
 plugins:
   - jekyll-last-modified-at
