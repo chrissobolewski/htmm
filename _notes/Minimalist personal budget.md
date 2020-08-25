@@ -1,5 +1,6 @@
 ---
 title: Minimalist personal budget
+image: /assets/50-30-20.JPG
 ---
 
 
@@ -32,6 +33,8 @@ Lastly, 20% of your income should be meant for [[Savings]]. Put this portion awa
 - [[Investments]] (preferably [[ETF]])
 - Paying off your [[Credit card]] and other [[Debt]]
 - Retirement fund
+
+![]({{page.image}})
 
 It's really simple and easy to start. With only three categories to track, you really have no excuses left.
 
