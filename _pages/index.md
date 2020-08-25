@@ -21,6 +21,23 @@ permalink: /
 ### Managing your personal budget
 - [[Minimalist personal budget]]
 
+## What's new?
+Be always up to date — subscribe to my newsletter (no spam, just relevant notifications):
+
+<div id="revue-embed">
+  <form action="https://www.getrevue.co/profile/htmm/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
+  <div class="revue-form-group">
+    <label for="member_email">Your e-mail address</label>
+    <input class="revue-form-field" placeholder="Your email address..." type="email" name="member[email]" id="member_email">
+  </div>
+  <div class="revue-form-actions">
+    <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit">
+  </div>
+  </form>
+</div>
+
+You can also follow the development of this site through <a href="https://twitter.com/howtomngmoney/">Twitter</a> and through my <a href="https://howtomanage.money/feed.xml">RSS feed</a>.
+
 <style>
   .wrapper {
     max-width: 46em;
