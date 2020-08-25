@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Living document.md",
+            "file": "Emergency fund.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Living document.md"
+                "file": "Emergency fund.md"
               }
             }
           },
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Living document.md"
+                "file": "Emergency fund.md"
               }
             }
           }
@@ -96,14 +96,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "Inbox/Untitled.md",
-    "Minimalist personal budget.md",
-    "Spend less than you make.md",
-    "Personal finance.md",
-    "Inbox/Debt.md"
+    "Inbox/Emergency fund.md",
+    "Inbox/Savings interest rate.md",
+    "Inbox/Financial Stability.md",
+    "Inbox/Psychological benefits of saving money.md",
+    "Inbox/Personal budget.md"
   ]
 }

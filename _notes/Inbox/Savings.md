@@ -1,0 +1,1 @@
+You should strive to save about 10 to 20% of your after-tax income. If you're following the principles of [[Minimalist personal budget]], 20% savings should be your goal.
