@@ -95,11 +95,11 @@ a {
   }
 }
 
-*:focus {
+/* *:focus {
   background: #ffe8bc !important;
   color: black !important;
 }
-
+*/
 nav {
   margin: 1em 0 3em;
 }
@@ -135,4 +135,22 @@ code {
   border-top: 0px;
   border-left: 0px;
   border-right: 0px;
+}
+
+input[type="submit"] {
+	margin: 0;
+	background-color: #ffe8bc;
+	color: #fff;
+	padding: 25px 15px !important;
+	text-align: center;
+	width: 100%;
+	max-width: 100%;
+	outline: none;
+	border: 0;
+	font-size: 12px;
+	cursor: pointer;
+	-webkit-transition: .1s all ease-in-out;
+	-moz-transition: .1s all ease-in-out;
+	-o-transition: .1s all ease-in-out;
+	transition: .1s all ease-in-out;
 }
