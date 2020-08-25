@@ -6,12 +6,12 @@ permalink: /about
 
 # 👋 Hi! I'm Chris. 
 
-I made this site to help you manage your money, grow your [[Savings]], make wise [[Investments]] decisions, and reach [[Financial stability]]. Start here, and take control of your [[Personal finance]] today!
+I've made this site to help you manage your money, grow your [[Savings]], make wise [[Investments]] decisions, and reach [[Financial stability]]. Start here, and take control of your [[Personal finance]] today!
 
-This page is an extension to my Polish personal finance management blog, [Metafinanse](https://metafinanse.pl), that I've been running since 2012. I'm a big believer in financial empowerement and awareness. Hope I will be able to reach international audience with this project.
+This page is an extension to my Polish personal finance management blog, [Metafinanse](https://metafinanse.pl), that I've been running since 2012. I'm a big believer in raising people's financial awareness. Hope I will be able to reach international audience with this project.
 
 ### Why is this worth your time?
-I've been teaching people personal finance management since 2012. I helped my Polish readers get out of [[Debt]] and manage their [[Personal budget]]s better. After numerous suggestions from my friends and readers, I've launched this site in English.
+I've been teaching people personal finance management since 2012. I've helped my Polish readers get out of [[Debt]] and manage their [[Personal budget]]s better. After numerous suggestions from my friends and readers, I've launched this site in English.
 
 This will be a valuable resource for you if you:
 - need to take control of your finances and don't know where to start
