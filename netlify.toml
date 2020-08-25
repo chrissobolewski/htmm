@@ -1,3 +1,7 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
 # Config for the Netlify Build Plugin: netlify-plugin-fetch-feeds
 [[plugins]]
   package = "netlify-plugin-fetch-feeds"
@@ -11,4 +15,4 @@
     [[plugins.inputs.feeds]]
       name = "htmm"
       url = "https://howtomanage.money/feed.xml"
-      ttl = 3600
+      ttl = 120
