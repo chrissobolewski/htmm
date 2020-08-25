@@ -28,4 +28,4 @@ Every note you see here is a [[Living document]]. I update this page constantly.
 
 ### Nerdy details
 
-📐 This site was built with the [Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) by [Maxime Vaillancourt](https://maximevaillancourt.com). It's hosted on [GitHub Pages](https://pages.github.com) and deployed via [Netlify](https://app.netlify.com/).
+📐 This site was built with the [Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) by [Maxime Vaillancourt](https://maximevaillancourt.com). It's hosted on [GitHub Pages](https://pages.github.com) and deployed via [Netlify](https://app.netlify.com/). All posts edited in [Obsidian](https://obsidian.md).
