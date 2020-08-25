@@ -9,7 +9,7 @@ This is your first note. You'll find it in the [`notes/`](https://github.com/max
 
 ### Link syntax
 
-To link to another note, you can use regular [Markdown syntax](https://www.markdownguide.org/getting-started/) for links, with a relative link to the other note, like this: [this is a link to a note about cats](/cats){: .internal-link}. Don't forget to use the `.internal-link` class to make sure the link is styled as an internal link.
+To link to another note, you can use regular [Markdown syntax](https://www.markdownguide.org/getting-started/) for links, with a relative link to the other note, like this: <!--[this is a link to a note about cats](/cats){: .internal-link}.--> Don't forget to use the `.internal-link` class to make sure the link is styled as an internal link.
 
 Since the Web is all about HTML, you can always use plain HTML if you want, like this: <a class="internal-link" href="/cats">This is the same note about cats as above</a>.
 

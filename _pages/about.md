@@ -4,7 +4,9 @@ title: About
 permalink: /about
 ---
 
-# 👋 Hi! I'm Chris. 
+# About this page
+
+## 👋 Hi! I'm Chris. 
 
 I've made this site to help you manage your money, grow your [[Savings]], make wise [[Investments]] decisions, and reach [[Financial stability]]. Start here, and take control of your [[Personal finance]] today!
 
