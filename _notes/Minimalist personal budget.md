@@ -1,5 +1,6 @@
 ---
 title: Minimalist personal budget
+date: 2020-08-25 19:21:20 +0900
 image: /assets/50-30-20.JPG
 ---
 

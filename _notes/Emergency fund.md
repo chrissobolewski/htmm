@@ -1,5 +1,6 @@
 ---
 title: Emergency fund
+date: 2020-08-25 20:21:11 +0900
 ---
 
 > Hope for the best, but be prepared for the worst.
@@ -44,4 +45,4 @@ And the interest rate? Just a cherry on top.
 
 ---
 
-Remember, whenever you take any money out of your *emergency fund*, remember to put it back in once the emergency is over and you can start saving again.
+Whenever you take any money out of your *emergency fund*, remember to put it back in once the emergency is over and you can start saving again.

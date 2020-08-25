@@ -1,5 +1,6 @@
 ---
 title: Spend less than you make
+date: 2020-08-25 18:21:31 +0900
 ---
 
 This is the key to successful <a class="internal-link" href="/index">personal finance management</a>, getting out of [[Debt]], accumulating [[Savings]], and reaching [[Financial stability]].
