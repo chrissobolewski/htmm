@@ -9,7 +9,7 @@ url: https://howtomanage.money
 
 plugins:
   - jekyll-last-modified-at
-  - jekyll-feed
+#  - jekyll-feed
 
 sass:
   sass_dir:          _sass
