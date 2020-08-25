@@ -67,6 +67,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.0)
   jekyll-last-modified-at
+  jekyll-feed
 
 BUNDLED WITH
    2.1.4
