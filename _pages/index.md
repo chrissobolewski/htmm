@@ -34,10 +34,12 @@ Be always up to date — subscribe to my newsletter (no spam, just relevant noti
 </div>
 
 You can also follow the development of this site through <a href="https://twitter.com/howtomngmoney/">Twitter</a> and via my <a href="https://howtomanage.money/feed.xml">RSS feed</a>.
+<h3>Latest entries</h3>
+
 <ul>
  {% assign sorted = site.notes | sort: 'date' | reverse %}
     {% for item in sorted limit:3 %}
-    <li>{{ item.title }}</li>
+    <li><a class="internal-link" href="{{ item.url }}">{{ item.title }}</a></li>
     {% endfor %}
 </ul>
 <style>
