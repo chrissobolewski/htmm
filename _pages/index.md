@@ -27,7 +27,7 @@ Be always up to date — subscribe to my newsletter (no spam, just relevant noti
 <div id="revue-embed">
   <form action="https://www.getrevue.co/profile/htmm/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
   <div class="revue-form-group">
-    <label for="member_email">Enter</label>
+    <label for="member_email">Just enter</label>
     <input class="revue-form-field" placeholder="your email address" type="email" name="member[email]" id="member_email"> and <input type="submit" value="subscribe" name="member[subscribe]" id="member_submit">
   </div>
   </form>
