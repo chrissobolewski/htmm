@@ -38,7 +38,7 @@ You can also follow the development of this site through <a href="https://twitte
 
 <ul>
  {% assign sorted = site.notes | sort: 'date' | reverse %}
-    {% for item in sorted limit:3 %}
+    {% for item in sorted limit:5 %}
     <li><a class="internal-link" href="{{ item.url }}">{{ item.title }}</a></li>
     {% endfor %}
 </ul>
