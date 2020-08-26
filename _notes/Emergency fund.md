@@ -44,7 +44,7 @@ The best and most surefire way is to put your *emergency fund* into a [[Saving a
 And the interest rate? Just a cherry on top.
 
 ## When to use it?
-What is an emergency? Basically, expenses that come unexpectedly, shock you
+What is an emergency? Basically, all expenses that come unexpectedly, shock you, and are necessary.
 - job loss / income loss
 - unexpected necessary medical expenses
 - unexpected problem with critical home appliance (e.g. fridge, air conditioner)

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Check your credit card balance before making big purchases.md",
+            "file": "Emergency fund.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Check your credit card balance before making big purchases.md"
+                "file": "Emergency fund.md"
               }
             }
           },
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Check your credit card balance before making big purchases.md"
+                "file": "Emergency fund.md"
               }
             }
           }
@@ -99,10 +99,10 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Inbox/Check your credit card balance before making big purchases.md",
+    "Emergency fund.md",
+    "Credit card.md",
     "Always pay your credit card balance in full.md",
     "Review your credit card statement.md",
-    "Credit card.md",
-    "Inbox/Always pay your credit card balance in full.md"
+    "Inbox/Check your credit card balance before making big purchases.md"
   ]
 }
