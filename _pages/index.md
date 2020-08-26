@@ -48,7 +48,7 @@ You can also follow the development of this site through <a href="https://twitte
 <hr>
 
 ### See how it all connects
-<br/><br/>
+<br/>
 {% include notes_graph.html %}
 <style>
   .wrapper {
