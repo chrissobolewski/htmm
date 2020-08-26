@@ -153,16 +153,6 @@
 
       node.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
       text.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
-    
-
-      var min_zoom = 0.1;
-var max_zoom = 7;
-var svg = d3.select("body").append("svg");
-var zoom = d3.behavior.zoom().scaleExtent([min_zoom,max_zoom])
-var g = svg.append("g");
-svg.style("cursor","move");
-
-
 
       text = text.data(nodesData, (d) => d.label);
       text.exit().remove();
