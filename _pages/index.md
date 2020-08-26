@@ -45,6 +45,11 @@ You can also follow the development of this site through <a href="https://twitte
     <li><a class="internal-link" href="{{ item.url }}">{{ item.title }}</a></li>
     {% endfor %}
 </ul>
+<hr>
+
+### See how it all connects
+
+{% include notes_graph.html %}
 <style>
   .wrapper {
     max-width: 46em;
