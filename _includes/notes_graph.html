@@ -92,6 +92,7 @@
         d3
           .forceLink(linksData)
           .id((d) => d.id)
+          console.log(d.id)
           .distance(150)
       )
       .force("center", d3.forceCenter(width / 2, height / 2))
