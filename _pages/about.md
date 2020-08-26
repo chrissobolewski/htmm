@@ -23,12 +23,12 @@ I've been teaching people personal finance management since 2012. I've helped my
 - seek advice on managing your [[Personal budget]]
 - want to make more money, either through [[Investments]] or just [[Increasing your income]]
 
-I promise this I will respect your time. My goal is to take the personal finance concepts (which can often seem complex and overwhelming) and explain them here with clarity and brevity.
+I promise I will respect your time. My goal is to take the personal finance concepts (which can often seem complex and overwhelming) and explain them here with clarity and brevity.
 
 I will also respect your privacy. You won't find any trackers from Facebook, Google, or anything like that on this site.
 
 ### Contact me
-✉️ Ask questions, discuss, and comment on Twitter — at<a href="https://twitter.com/howtomngmoney">@howtomngmoney</a> .
+✉️ Ask questions, discuss, and comment on Twitter — at <a href="https://twitter.com/howtomngmoney">@howtomngmoney</a> .
 
 ### Constant work in progress
 🚧 Every note you see here is a [Living document](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C). I update this page constantly. This means you might see seams here and there, like some phrases in `[[ ]]` brackets. In the future, they will lead to a separate page with further elaboration. But for now, if you see the brackets, it just means the target page is not ready yet (but it will be, eventually).
