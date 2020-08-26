@@ -3,7 +3,7 @@ title: Chargeback
 date: 2020-08-26 11:17:47 +0800
 ---
 
-You can ask your bank to reverse a card transaction and secure a refund for a purchase you made.
+You can ask your bank to reverse a card transaction and secure a refund for a purchase you made if something went wrong.
 
 ### When to use chargeback?
 Filing a chargeback claim is usually a good idea if:
@@ -18,9 +18,10 @@ Filing a chargeback claim is usually a good idea if:
 - You were charged for your subscription, even though you canceled it or disabled auto-renewal.
 
 ### Chargeback conditions
-There are some conditions you need to meet to make your chargeback claim successful:
+There are some requirements for getting your money back:
 - You can file a chargeback claim if your purchase was made via a [[Credit card]] or a [[Debit card]]. Chargeback does not apply to wire transfers, for instance.
 - The transaction must not be older than 120 days (counting from the transaction's *processing date* — check your card statement!)
+- You need to have proof to support your claim.
 - Exhaust other options of getting the refund first (i.e. contact the merchant before filing for chargeback).
 
 ### What happens after you file a chargeback claim?
@@ -35,3 +36,5 @@ You won't be refunded automatically. There are a few steps to the chargeback pro
 	b. They may challenge the claim and provide evidence proving the transaction was valid. Such evidence may include invoices, receipts, proof of delivery, copy of shop's terms & conditions (return policy, in particular) you accepted at the time of the purchase.
 	
 	Your bank will review this proof and will decide whether the purchase was in fact valid. They will inform you about their decision. If you disagree with that decision, you can continue your dispute through the arbitration process.
+
+Chargeback is not a legal right and there are no guarantees your bank will be able to recover the money.

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Fuck-you money.md",
+            "file": "Chargeback.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Fuck-you money.md"
+                "file": "Chargeback.md"
               }
             }
           },
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Fuck-you money.md"
+                "file": "Chargeback.md"
               }
             }
           }
@@ -99,10 +99,10 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Chargeback.md",
     "Inbox/Fuck-you money.md",
     "Inbox/Insurance.md",
     "Psychological benefits of saving money.md",
-    "Inbox/Savings interest rate.md",
-    "Inbox/Credit card.md"
+    "Inbox/Savings interest rate.md"
   ]
 }
