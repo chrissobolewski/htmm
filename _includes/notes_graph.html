@@ -76,7 +76,10 @@
 
     window.onresize = reportWindowSize;
 
-    const svg = d3.select("svg");
+    const svg = d3.select("svg")
+    .call(d3.zoom().on("zoom", function () {
+              svg.attr("transform", d3.event.transform)
+         }));
     const width = Number(svg.attr("width"));
     const height = Number(svg.attr("height"));
     let zoomLevel = 1;
