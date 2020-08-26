@@ -129,7 +129,6 @@
         .attr("y1", (d) => d.source.y)
         .attr("x2", (d) => d.target.x)
         .attr("y2", (d) => d.target.y);
-        if (isCurrentPath(d.path.toLowerCase().replace(" ","%20"))) center.x(d.x)
     };
 
     const restart = () => {
@@ -197,5 +196,9 @@
       if (str.length <= maxLen) return str;
       return str.substr(0, str.lastIndexOf(separator, maxLen)) + '...';
     }
+
+    force.on("tick", function() {
+    nodes[0].x = w / 2;
+    nodes[0].y = h / 2;
   </script>
 </div>
