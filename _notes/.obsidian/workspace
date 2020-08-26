@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Credit card.md",
+            "file": "Inbox/Fuck-you money.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Credit card.md"
+                "file": "Inbox/Fuck-you money.md"
               }
             }
           },
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Credit card.md"
+                "file": "Inbox/Fuck-you money.md"
               }
             }
           }
@@ -99,10 +99,10 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Inbox/Credit card.md",
-    "Inbox/How do credit cards work.md",
-    "Inbox/Credit card extended warranty.md",
-    "Inbox/Credit cards and your credit score.md",
-    "Inbox/Always pay your credit card balance in full.md"
+    "Inbox/Fuck-you money.md",
+    "Inbox/Insurance.md",
+    "Psychological benefits of saving money.md",
+    "Inbox/Savings interest rate.md",
+    "Inbox/Credit card.md"
   ]
 }
