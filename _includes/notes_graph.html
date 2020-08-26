@@ -153,8 +153,66 @@
 
       node.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
       text.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
-      node.attr("cx", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? width/2 : null);
-      node.attr("cy", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? height/2 : null);
+    
+
+      var min_zoom = 0.1;
+var max_zoom = 7;
+var svg = d3.select("body").append("svg");
+var zoom = d3.behavior.zoom().scaleExtent([min_zoom,max_zoom])
+var g = svg.append("g");
+svg.style("cursor","move");
+
+d3.json("graph.json", function(error, graph) {
+
+var linkedByIndex = {};
+    graph.links.forEach(function(d) {
+	linkedByIndex[d.source + "," + d.target] = true;
+    });
+
+	function isConnected(a, b) {
+        return linkedByIndex[a.index + "," + b.index] || linkedByIndex[b.index + "," + a.index] || a.index == b.index;
+    }
+
+	function hasConnections(a) {
+		for (var property in linkedByIndex) {
+				s = property.split(",");
+				if ((s[0] == a.index || s[1] == a.index) && linkedByIndex[property]) 					return true;
+		}
+	return false;
+	}
+	
+  force
+    .nodes(graph.nodes)
+    .links(graph.links)
+    .start();
+
+  var link = g.selectAll(".link")
+    .data(graph.links)
+    .enter().append("line")
+    .attr("class", "link")
+	.style("stroke-width",nominal_stroke)
+	.style("stroke", function(d) { 
+	if (isNumber(d.score) && d.score>=0) return color(d.score);
+	else return default_link_color; })
+
+
+  var node = g.selectAll(".node")
+    .data(graph.nodes)
+    .enter().append("g")
+    .attr("class", "node")
+	
+    .call(force.drag)
+
+	
+	node.on("dblclick.zoom", function(d) { d3.event.stopPropagation();
+	var dcx = (window.innerWidth/2-d.x*zoom.scale());
+	var dcy = (window.innerHeight/2-d.y*zoom.scale());
+	zoom.translate([dcx,dcy]);
+	 g.attr("transform", "translate("+ dcx + "," + dcy  + ")scale(" + zoom.scale() + ")");
+	 
+	 
+	});
+
 
       text = text.data(nodesData, (d) => d.label);
       text.exit().remove();
