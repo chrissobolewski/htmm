@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lifestyle expenses.md",
+            "file": "Chargeback.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lifestyle expenses.md"
+                "file": "Chargeback.md"
               }
             }
           },
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lifestyle expenses.md"
+                "file": "Chargeback.md"
               }
             }
           }
@@ -99,10 +99,10 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Inbox/Lifestyle expenses.md",
-    "Minimalist personal budget.md",
-    "Inbox/Be smart about your expenses.md",
-    "Inbox/Increasing your income.md",
-    "Inbox/Credit card.md"
+    "Inbox/Chargeback.md",
+    "Inbox/Debit card.md",
+    "Inbox/Untitled.md",
+    "Inbox/Psychological benefits of saving money.md",
+    "Inbox/Lifestyle expenses.md"
   ]
 }
