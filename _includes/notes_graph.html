@@ -81,6 +81,11 @@
     const height = Number(svg.attr("height"));
     let zoomLevel = 1;
 
+    if (isCurrentPath(d.path.toLowerCase().replace(" ","%20"))) {
+          var currentx = d.x
+          var currenty = d.y
+        }
+
     const simulation = d3
       .forceSimulation(nodesData)
       .force("charge", d3
@@ -119,10 +124,6 @@
 
     const ticked = () => {
       node.attr("cx", (d) => d.x).attr("cy", (d) => d.y);
-        if (isCurrentPath(d.path.toLowerCase().replace(" ","%20"))) {
-          var currentx = d.x
-          var currenty = d.y
-        }
       text
         .attr("x", (d) => d.x)
         .attr("y", (d) => d.y - FONT_BASELINE / zoomLevel);
