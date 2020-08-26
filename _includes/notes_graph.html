@@ -154,7 +154,10 @@
       text.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
 
       if ((d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20"))) {
-       
+  
+        var min_zoom = 0.1;
+var max_zoom = 7
+var zoom = d3.behavior.zoom().scaleExtent([min_zoom,max_zoom])
 	var dcx = (d) => (window.innerWidth/2-d.x*zoom.scale());
 	var dcy = (d) => (window.innerHeight/2-d.y*zoom.scale());
 	zoom.translate([dcx,dcy]);
