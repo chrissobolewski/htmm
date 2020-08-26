@@ -92,12 +92,13 @@
         d3
           .forceLink(linksData)
           .id((d) => d.id)
-          console.log(d.id)
           .distance(150)
       )
       .force("center", d3.forceCenter(width / 2, height / 2))
       .stop();
 
+    console.log(d3)
+    console.log(d.id)
     const g = svg.append("g");
     let link = g.append("g").attr("class", "links").selectAll(".link");
     let node = g.append("g").attr("class", "nodes").selectAll(".node");
