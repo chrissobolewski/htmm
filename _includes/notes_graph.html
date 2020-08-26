@@ -154,8 +154,8 @@ console.log(nodesData);
 
       node.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
       text.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
-      if (isCurrentPath(d.path.toLowerCase().replace(" ","%20"))) centerNode(d);
-      
+      if ((d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20"))) centerNode(d);
+
       text = text.data(nodesData, (d) => d.label);
       text.exit().remove();
       text = text
