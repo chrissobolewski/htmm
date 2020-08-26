@@ -1,0 +1,3 @@
+Don't look for perfect. Don't look for best-in-class. It's usually a waste of time, a waste of money, and it doesn't make you happier. Quite the opposite (see: [The Power of Good Enough](https://www.theatlantic.com/health/archive/2015/03/the-power-of-good-enough/387388/)).
+
+You don't need a maxed-out iPad Pro. In fact, for your [[Personal computing]] needs, the iPad you already have will be more than enough. [[You don't need to upgrade]].
