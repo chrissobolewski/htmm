@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Check your credit card balance before making big purchases.md",
+            "file": "Inbox/Living document.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Check your credit card balance before making big purchases.md"
+                "file": "Inbox/Living document.md"
               }
             }
           },
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Check your credit card balance before making big purchases.md"
+                "file": "Inbox/Living document.md"
               }
             }
           }
@@ -99,10 +99,10 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Inbox/Living document.md",
+    "Inbox/Take care for your future self.md",
     "Check your credit card balance before making big purchases.md",
     "Review your credit card statement.md",
-    "Always pay your credit card balance in full.md",
-    "Emergency fund.md",
-    "Credit card.md"
+    "Always pay your credit card balance in full.md"
   ]
 }

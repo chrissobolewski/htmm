@@ -31,7 +31,7 @@ I will also respect your privacy. You won't find here any trackers from Facebook
 ✉️ Ask questions, discuss, and comment — at me <a href="https://twitter.com/howtomngmoney">@howtomngmoney</a> on Twitter.
 
 ### Constant work in progress
-🚧 Every note you see here is a [[Living document]]. I update this page constantly. This means you might see seams here and there. Like some phrases in `[[ ]]` brackets. In the future, they will lead to a separate page with further explanation. If you see the brackets, it just means the target page is not ready yet (it will be, eventually).
+🚧 Every note you see here is a [Living document](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C). I update this page constantly. This means you might see seams here and there. Like some phrases in `[[ ]]` brackets. In the future, they will lead to a separate page with further explanation. If you see the brackets, it just means the target page is not ready yet (it will be, eventually).
 
 ### Nerdy details
 
