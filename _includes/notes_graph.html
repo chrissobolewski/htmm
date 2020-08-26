@@ -94,11 +94,8 @@
           .id((d) => d.id)
           .distance(150)
       )
-      if (isCurrentPath(d.path.toLowerCase().replace(" ","%20"))) {
-          var currentx = d.x
-          var currenty = d.y
-        }
-      .force("center", d3.forceCenter(currentx , currenty ))
+
+/*      .force("center", d3.forceCenter(width / 2 , height / 2 )) */
       .stop();
 
     const g = svg.append("g");
@@ -174,6 +171,12 @@
 
       for (let i = 0; i < TICKS; i++) {
         simulation.tick();
+        if (isCurrentPath(d.path.toLowerCase().replace(" ","%20"))) {
+          var currentx = d.x
+          var currenty = d.y
+        }
+
+d3.forceCenter(currentx , currenty)
       }
 
       ticked();
