@@ -153,7 +153,7 @@
       node.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
       text.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
 
-      if ((d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20"))) zoom.translate([width / 2 - zoom.scale() * node.x, height / 2 - zoom.scale() * node.y]
+      if ((d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20"))) zoom.translate([width / 2 - zoom.scale() * node.x, height / 2 - zoom.scale() * node.y])
 
       text = text.data(nodesData, (d) => d.label);
       text.exit().remove();
