@@ -53,7 +53,7 @@
     let linksData = graphData.edges;
 
     const onClick = (d) => {
-      window.location = d.path.toLowerCase().replace(" ","%20")
+      window.location = d.path
     };
 
     const element = document.createElementNS(
@@ -97,8 +97,6 @@
       .force("center", d3.forceCenter(width / 2, height / 2))
       .stop();
 
-    console.log(d3)
-    console.log(d.id)
     const g = svg.append("g");
     let link = g.append("g").attr("class", "links").selectAll(".link");
     let node = g.append("g").attr("class", "nodes").selectAll(".node");
@@ -150,8 +148,8 @@
         .attr("stroke-width", STROKE)
         .merge(link);
 
-      node.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
-      text.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
+      node.attr("active", (d) => isCurrentPath(d.path) ? true : null);
+      text.attr("active", (d) => isCurrentPath(d.path) ? true : null);
 
       text = text.data(nodesData, (d) => d.label);
       text.exit().remove();
