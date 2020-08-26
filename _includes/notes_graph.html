@@ -94,7 +94,7 @@
           .id((d) => d.id)
           .distance(150)
       )
-      .force("center", d3.forceCenter(width * 2, height * 2))
+      .force("center", d3.forceCenter(width , height ))
       .stop();
 
     const g = svg.append("g");
