@@ -153,6 +153,8 @@
 
       node.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
       text.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
+      node.attr("cx", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? width/2 : null);
+      node.attr("cy", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? height/2 : null);
 
       text = text.data(nodesData, (d) => d.label);
       text.exit().remove();
