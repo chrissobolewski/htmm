@@ -94,7 +94,7 @@
           .id((d) => d.id)
           .distance(150)
       )
-      .force("center", d3.forceCenter(width / 2, height / 2))
+      .force("center", d3.forceCenter(width * 2, height * 2))
       .stop();
 
     const g = svg.append("g");
@@ -148,8 +148,8 @@
         .attr("stroke-width", STROKE)
         .merge(link);
 
-      node.attr("active", (d) => isCurrentPath(d.path) ? true : null);
-      text.attr("active", (d) => isCurrentPath(d.path) ? true : null);
+      node.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
+      text.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
 
       text = text.data(nodesData, (d) => d.label);
       text.exit().remove();
