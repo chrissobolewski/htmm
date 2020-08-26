@@ -14,12 +14,15 @@ permalink: /
 ## Start here
 - Read more <a class="internal-link" href="/about">about this page</a>.
 
-### Fundamentals
+### Learn the basics of personal finance
 - [[Spend less than you make]]
 - [[Emergency fund]]
 
-### Managing your personal budget
+### Manage your personal budget
 - [[Minimalist personal budget]]
+
+### Understand banking products and services better
+- [[Credit card]]
 
 ## What's new?
 Be always up to date — subscribe to my newsletter (no spam, just relevant notifications):
