@@ -154,12 +154,11 @@
       text.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
 
       if ((d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20"))) {
-        var dx = bounds[1][0] - bounds[0][0],
-        dy = bounds[1][1] - bounds[0][1],
-        x = (bounds[0][0] + bounds[1][0]) / 2,
-        y = (bounds[0][1] + bounds[1][1]) / 2,
-        scale = Math.max(1, Math.min(8, 0.9 / Math.max(dx / width, dy / height))),
-        translate = [width / 2 - scale * x, height / 2 - scale * y];
+        d3.event.stopPropagation();
+	var dcx = (d) => (window.innerWidth/2-d.x*zoom.scale());
+	var dcy = (d) => (window.innerHeight/2-d.y*zoom.scale());
+	zoom.translate([dcx,dcy]);
+	 g.attr("transform", "translate("+ dcx + "," + dcy  + ")scale(" + zoom.scale() + ")");
       }
 
       text = text.data(nodesData, (d) => d.label);
