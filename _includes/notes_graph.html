@@ -120,8 +120,8 @@
 
     const ticked = () => {
       node.attr("cx", (d) => d.x).attr("cy", (d) => d.y);
-      if (isCurrentPath(d.path.toLowerCase().replace(" ","%20"))) center.x(d.x)
-      if (isCurrentPath(d.path.toLowerCase().replace(" ","%20"))) center.y(d.y)
+     /* if (isCurrentPath(d.path.toLowerCase().replace(" ","%20"))) center.x(d.x)
+      if (isCurrentPath(d.path.toLowerCase().replace(" ","%20"))) center.y(d.y) */
       text
         .attr("x", (d) => d.x)
         .attr("y", (d) => d.y - FONT_BASELINE / zoomLevel);
