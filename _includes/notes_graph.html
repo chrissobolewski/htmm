@@ -120,8 +120,7 @@
 
     const ticked = () => {
       node.attr("cx", (d) => d.x).attr("cy", (d) => d.y);
-     /* if (isCurrentPath(d.path.toLowerCase().replace(" ","%20"))) center.x(d.x)
-      if (isCurrentPath(d.path.toLowerCase().replace(" ","%20"))) center.y(d.y) */
+      
       text
         .attr("x", (d) => d.x)
         .attr("y", (d) => d.y - FONT_BASELINE / zoomLevel);
@@ -130,6 +129,7 @@
         .attr("y1", (d) => d.source.y)
         .attr("x2", (d) => d.target.x)
         .attr("y2", (d) => d.target.y);
+        if (isCurrentPath(d.path.toLowerCase().replace(" ","%20"))) d3.forceCenter(d.x, d.y)
     };
 
     const restart = () => {
