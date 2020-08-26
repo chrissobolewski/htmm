@@ -8,7 +8,7 @@ permalink: /
 # Welcome! 💸
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Reliable advice, real-life examples, and additional materials to help you manage your money better. 
+  Reliable advice, real-life examples, and additional materials to help you manage your money better. This pages is a resource for all things [[Savings]], [[Personal budget]], and good financial habits.
 </p>
 
 ## Start here
