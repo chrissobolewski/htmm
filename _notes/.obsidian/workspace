@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chargeback.md",
+            "file": "Credit card.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chargeback.md"
+                "file": "Credit card.md"
               }
             }
           },
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chargeback.md"
+                "file": "Credit card.md"
               }
             }
           }
@@ -99,10 +99,10 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Inbox/Chargeback.md",
-    "Inbox/Debit card.md",
-    "Inbox/Untitled.md",
-    "Inbox/Psychological benefits of saving money.md",
-    "Inbox/Lifestyle expenses.md"
+    "Inbox/Credit card.md",
+    "Inbox/How do credit cards work.md",
+    "Inbox/Credit card extended warranty.md",
+    "Inbox/Credit cards and your credit score.md",
+    "Inbox/Always pay your credit card balance in full.md"
   ]
 }

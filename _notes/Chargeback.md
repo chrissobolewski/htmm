@@ -9,11 +9,11 @@ You can ask your bank to reverse a card transaction and secure a refund for a pu
 Filing a chargeback claim is usually a good idea if:
 - You noticed you were charged twice for the same purchase.
 - The goods that arrived were faulty or damaged.
-- You returned your purchase but haven't received a refund.
+- You returned your purchase but haven't received the refund.
 - You noticed a fraudulent transaction on your card statement.
 - You noticed a transaction authorization error (e.g. you got a card terminal receipt saying that the transaction was denied, but you were still charged the full amount).
-- After taking out cash from an ATM, your account was debited for a different amount than the cash you withdrew.
-- You were charged in a different currency than you chose during the transaction.
+- After taking out cash from an ATM, your account was debited for a different amount than the amount of cash you withdrew.
+- You were charged in a different currency than you chose to be charged in during the transaction.
 - You didn't receive the goods/services ordered (or you were charged for goods/serviced you didn't order).
 - You were charged for your subscription, even though you canceled it or disabled auto-renewal.
 
@@ -31,6 +31,7 @@ You won't be refunded automatically. There are a few steps to the chargeback pro
 3. Merchant's bank will contact the merchant and ask them to take a position on your claim. At this point, a few things can happen:
 
 	a. They may accept your claim. Shortly after, your refund should be on its way.
+	
 	b. They may challenge the claim and provide evidence proving the transaction was valid. Such evidence may include invoices, receipts, proof of delivery, copy of shop's terms & conditions (return policy, in particular) you accepted at the time of the purchase.
 	
 	Your bank will review this proof and will decide whether the purchase was in fact valid. They will inform you about their decision. If you disagree with that decision, you can continue your dispute through the arbitration process.
