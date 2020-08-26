@@ -167,8 +167,8 @@
 
       simulation.nodes(nodesData);
       simulation.force("link").links(linksData);
-      if (isCurrentPath(d.path.toLowerCase().replace(" ","%20"))) simulation.center.x(d.x) 
-      if (isCurrentPath(d.path.toLowerCase().replace(" ","%20"))) simulation.center.y(d.y) 
+      if (isCurrentPath((d) => d.path.toLowerCase().replace(" ","%20"))) simulation.center.x(d.x) 
+      if (isCurrentPath((d) => d.path.toLowerCase().replace(" ","%20"))) simulation.center.y(d.y) 
       simulation.alpha(1).restart();
       simulation.stop();
 
