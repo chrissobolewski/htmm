@@ -43,6 +43,15 @@ The best and most surefire way is to put your *emergency fund* into a [[Saving a
 
 And the interest rate? Just a cherry on top.
 
----
+## When to use it?
+What is an emergency? Basically, expenses that come unexpectedly, shock you
+- job loss / income loss
+- unexpected necessary medical expenses
+- unexpected problem with critical home appliance (e.g. fridge, air conditioner)
+- last minute essential travel (e.g. for family emergencies)
+- major car repair after an accident
+- unexpected but critical home repairs
 
-Whenever you take any money out of your *emergency fund*, remember to put it back in once the emergency is over and you can start saving again.
+Don't use your emergency fund on any expected expenses or non-essential spending.
+
+Whenever you take any money out of your *emergency fund*, remember to start putting it back in once you've dealt with the financial setback at hand. Rebuilding your fund is key to making sure you have access to [[Savings]] next time you're in need.

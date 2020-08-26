@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chargeback.md",
+            "file": "Check your credit card balance before making big purchases.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chargeback.md"
+                "file": "Check your credit card balance before making big purchases.md"
               }
             }
           },
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chargeback.md"
+                "file": "Check your credit card balance before making big purchases.md"
               }
             }
           }
@@ -99,10 +99,10 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Chargeback.md",
-    "Inbox/Fuck-you money.md",
-    "Inbox/Insurance.md",
-    "Psychological benefits of saving money.md",
-    "Inbox/Savings interest rate.md"
+    "Inbox/Check your credit card balance before making big purchases.md",
+    "Always pay your credit card balance in full.md",
+    "Review your credit card statement.md",
+    "Credit card.md",
+    "Inbox/Always pay your credit card balance in full.md"
   ]
 }
