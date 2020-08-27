@@ -1,0 +1,1 @@
+https://www.theminimalists.com/upgrade/
