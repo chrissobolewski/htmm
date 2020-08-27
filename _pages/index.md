@@ -11,13 +11,6 @@ permalink: /
   Reliable advice, real-life examples, and additional materials to help you manage your money better. This pages is a resource for all things [[Savings]], [[Personal budget]], and [[Good financial habits]].
 </p>
 
-## Find what you need
-<form action="https://howtomanage.money/_pages/search.html" method="get">
-  <label for="search-box">Search</label>
-  <input type="text" id="search-box" name="query">
-  <input type="submit" value="search">
-</form>
-
 ## Start here
 - Read more <a class="internal-link" href="/about">about this page</a>.
 
@@ -44,6 +37,14 @@ Be always up to date — subscribe to my newsletter (no spam, just relevant noti
 </div>
 
 You can also follow the development of this site through <a href="https://twitter.com/ksobny/">Twitter</a> and via my <a href="https://howtomanage.money/feed.xml">RSS feed</a>.
+
+## Find what you need
+<form action="https://howtomanage.money/_pages/search.html" method="get">
+  <label for="search-box">Search</label>
+  <input type="text" id="search-box" name="query">
+  <input type="submit" value="search">
+</form>
+
 <h3>Latest entries</h3>
 
 <ul>
