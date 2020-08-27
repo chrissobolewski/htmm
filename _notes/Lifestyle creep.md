@@ -6,9 +6,9 @@ image: /assets/healthy-finances.JPG
 
 The more you earn, the more you spend. That's one of the [[Bad money habits]].
 
-You get a raise, and immediately your [[Expenses]] go up as well. It's only reasonable, right? -- we earn more to make our lives better. And we make our lives better by spending more money.
+You get a raise, and immediately your [[Expenses]] go up as well (especially the [[Lifestyle expenses]]). It's only reasonable, right? -- after all, we earn more to make our lives better. And we make our lives better by spending more money.
 
-Except, that's not entirely true. If your income and expenses rise at the same rate, you're in trouble. Lifestyle creep is... creeping up on you. You may earn twice as much as you earned a few years ago (see also: [[Increasing your income]]) , but you're still living paycheck-to-paycheck.
+Except, that's not entirely true. If your income and expenses rise at the same rate, you're in trouble. *Lifestyle creep* is... creeping up on you. You may earn twice as much as you earned a few years ago (see also: [[Increasing your income]]) , but you're still living paycheck-to-paycheck.
 
 That's why you're standing in place. Your wealth is not growing, you're not increasing your net worth, you're not getting any richer. You're just increasing your spending.
 
