@@ -11,7 +11,7 @@ But don't do that just yet. Your first obligation is to yourself. Before you sta
 
 Treat is as a bill that you need to pay to yourself. This is your commitment to start saving *something*. And stick to it every single month.
 
-Once you set aside a sum for your [[Savings]], you can live on what's left. That means you will have less money available to spend every month -- and that's exactly the point. We're stopping [Parkinson's Law](/parkinson's%20law){: .internal-link} in its tracks this way. 
+Once you set aside a sum for your [[Savings]], you can live on what's left. That means you will have less money available to spend every month -- and that's exactly the point. We're stopping [[Parkinson's Law]] in its tracks this way. 
 
 ### Make it easier, automate it
 If you get your salary on a set day every month, you can make all this *pay yourself process* easier by automating it. Set a recurring transfer from your [[Checking account]] to your [[Saving account]] one day after the payday.
