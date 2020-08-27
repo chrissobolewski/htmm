@@ -12,6 +12,6 @@ Others include:
 - increased assertiveness (you can literally afford to say “no” to more things and more people)
 - more optimism — [[Financial stability]] gives you a clearer and more positive outlook
 - less uncertainty
-- less stress
+- less stress, money stops being a reason for worry
 
 Saving money has a profound impact on your mental health.
