@@ -50,7 +50,7 @@ You can also follow the development of this site through <a href="https://twitte
 ## Find what you need
 <form action="https://howtomanage.money/_pages/search.html" method="get">
   <label for="search-box">I want to know more about...</label>
-  <input type="text" id="search-box" name="query">
+  <input type="text" id="search-box" class="revue-form-field" name="query">
   <input type="submit" value="show me">
 </form>
 
