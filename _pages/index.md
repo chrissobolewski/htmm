@@ -31,19 +31,12 @@ Be always up to date — subscribe to my newsletter (no spam, just relevant noti
   <form action="https://www.getrevue.co/profile/htmm/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
   <div class="revue-form-group">
     <label for="member_email">Just enter</label>
-    <input class="revue-form-field" placeholder="your email address" type="email" name="member[email]" id="member_email"> and <input type="submit" value="subscribe!" name="member[subscribe]" id="member_submit">
+    <input class="revue-form-field" placeholder="your email address" type="email" name="member[email]" id="member_email"> and <input type="submit" value="subscribe" name="member[subscribe]" id="member_submit">
   </div>
   </form>
 </div>
 
 You can also follow the development of this site through <a href="https://twitter.com/ksobny/">Twitter</a> and via my <a href="https://howtomanage.money/feed.xml">RSS feed</a>.
-
-## Find what you need
-<form action="https://howtomanage.money/_pages/search.html" method="get">
-  <label for="search-box">I want to know more about...</label>
-  <input type="text" id="search-box" name="query">
-  <input type="submit" value="show me">
-</form>
 
 <h3>Latest entries</h3>
 
@@ -53,6 +46,14 @@ You can also follow the development of this site through <a href="https://twitte
     <li><a class="internal-link" href="{{ item.url }}">{{ item.title }}</a></li>
     {% endfor %}
 </ul>
+
+## Find what you need
+<form action="https://howtomanage.money/_pages/search.html" method="get">
+  <label for="search-box">I want to know more about...</label>
+  <input type="text" id="search-box" name="query">
+  <input type="submit" value="show me">
+</form>
+
 <hr>
 <style>
   .wrapper {
