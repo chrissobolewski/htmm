@@ -13,6 +13,7 @@ This is the hub for all information regarding credit cards and how to use them t
 	- [[Always pay your credit card balance in full]]
 	- [[Review your credit card statement]]
 	- [[Check your credit card balance before making big purchases]]
+	- [[How to think about your credit card limit]]
 - Additional benefits: 
 	- [[Chargeback]]
 	- [[Credit card rewards]]

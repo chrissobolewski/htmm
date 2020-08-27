@@ -3,6 +3,8 @@ title: Good financial habits
 date: 2020-08-26 21:21:10 +0800
 ---
 
+Habits compound over time. Even if you start small today, the returns will increase exponentially over time.
+
 - [[Spend less than you make]]
 - Maintain an [[Emergency fund]]
 - [[Pay yourself first]]

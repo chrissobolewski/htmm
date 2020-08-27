@@ -1,0 +1,1 @@
+https://www.inverse.com/article/59670-credit-card-psychology
