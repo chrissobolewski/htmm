@@ -25,7 +25,7 @@ The next 30% should go on *wants*. Here's the place for extras. This may include
 - Hobbies
 - Entertainment 
 
-We don't necessarily *need* those to stay alive, but they make living more pleasant. Those are the [[Lifestyle expenses]], things that increase your quality of life. They're important and you should find a place for them in your [[Personal budget]]. Unless you're in financial dire straits, but that's another story.
+We don't necessarily *need* those to stay alive, but they make living more pleasant and increase your quality of life. They're important and you should find a place for them in your [[Personal budget]]. Unless you're in financial dire straits, but that's another story.
 
 Lastly, 20% of your income should be meant for [[Savings]]. Put this portion away and direct it to your:
 - [[Emergency fund]]
