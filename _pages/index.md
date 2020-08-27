@@ -12,7 +12,7 @@ permalink: /
 </p>
 
 ## Find what you need
-<form action="/search.html" method="get">
+<form action="https://howtomanage.money/_pages/search.html" method="get">
   <label for="search-box">Search</label>
   <input type="text" id="search-box" name="query">
   <input type="submit" value="search">
