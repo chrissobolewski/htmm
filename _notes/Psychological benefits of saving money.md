@@ -8,9 +8,10 @@ Can you put a price tag on peace of mind? Well, [[Insurance]] companies certainl
 Peace of mind is one of the greatest psychological benefits of saving money.
 
 Others include:
-- increased confidence (see also: [[Fuck-you money]]) — if the storm comes, you'll be able to weather it
-- increased assertiveness (you can literally afford to say “no” to more things)
+- increased confidence (see also: [[Fuck-you money]]) — if a storm comes, you'll be able to weather it
+- increased assertiveness (you can literally afford to say “no” to more things and more people)
 - more optimism — [[Financial stability]] gives you a clearer and more positive outlook
 - less uncertainty
+- less stress
 
 Saving money has a profound impact on your mental health.
