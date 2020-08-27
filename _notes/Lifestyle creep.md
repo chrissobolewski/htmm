@@ -14,7 +14,7 @@ That's why you're standing in place. Your wealth is not growing, you're not incr
 
 ---
 
-Bad news is, this is in our nature. It's [[Parkinson's Law]] in practice. Just replace "work" with "expenses" and "time" with "income". *[[Expenses]] expand as to fill all available income.*
+Bad news is, this is in our nature. It's [[Parkinsons Law]] in practice. Just replace "work" with "expenses" and "time" with "income". *[[Expenses]] expand as to fill all available income.*
 
 ---
 
