@@ -107,10 +107,10 @@ console.log(nodesData);
 
     const zoomActions = () => {
       const scale = d3.event.transform;
-      zoomLevel = scale.k / 2;
+      zoomLevel = scale.k;
       g.attr("transform", scale);
 
-      const zoomOrKeep = (value) => (scale.k >= 1 ? value / scale.k : value);
+      const zoomOrKeep = (value) => (scale.k >= 1 ? value/2 / scale.k : value/2);
 
       const font = Math.max(Math.round(zoomOrKeep(FONT_SIZE)), 1);
 
