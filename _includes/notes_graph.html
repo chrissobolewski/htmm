@@ -108,8 +108,10 @@ console.log(nodesData);
 
     const zoomActions = () => {
       const scale = d3.event.transform;
+console.log(scale);
+
       zoomLevel = scale.k;
-      g.attr("transform", "scale (0.4)");
+      g.attr("transform", scale);
 
       const zoomOrKeep = (value) => (scale.k >= 1 ? value / scale.k : value);
 
