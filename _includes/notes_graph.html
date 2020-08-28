@@ -164,7 +164,7 @@ d3.zoomIdentity.y = 250;
         .merge(link);
 
       node.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
-      node.attr("r", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? "8" : "4";
+      node.attr("r", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? "8" : "4");
       text.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
 
       text = text.data(nodesData, (d) => d.label);
