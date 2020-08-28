@@ -99,7 +99,6 @@ console.log(nodesData);
 
       .force("center", d3.forceCenter(width / 2 , height / 2)) 
       .stop();
-      .call(zoomExtent.transform, d3.zoomIdentity.translate(392, 250).scale(0.4));
 
 
     const g = svg.append("g").attr("transform", "translate(392, 250) scale(0.4)");
