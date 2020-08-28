@@ -109,6 +109,7 @@ console.log(nodesData);
     const zoomActions = () => {
       const scale = d3.event.transform;
       console.log(scale);
+      if (d3.event.transform.k==1 || d3.event.transform.k == null) d3.event.transform.k=0.4;
       if (scale.k==1 || scale.k == null) scale.k=0.4;
       if (scale.x==0) scale.x=392;
       if (scale.y==0) scale.y=250;
