@@ -107,6 +107,9 @@ console.log(nodesData);
     let text = g.append("g").attr("class", "text").selectAll(".text");
 
 console.log(d3);
+d3.zoomIdentity.k = 0.4;
+d3.zoomIdentity.x = 392;
+d3.zoomIdentity.y = 250;
 
     const zoomActions = () => {
       const scale = d3.event.transform;
