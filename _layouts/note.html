@@ -18,17 +18,7 @@ layout: default
   <div id="notes-entry-container">
     <content>
       {{ content }}
-      <div id="hyvor-talk-view"></div>
-      <script type="text/javascript">
-          var HYVOR_TALK_WEBSITE = 1767; // DO NOT CHANGE THIS
-          var HYVOR_TALK_CONFIG = {
-              url: '{{ page.url | absolute_url }}',
-              id: '{{page.id}}'
-          };
-      </script>
     </content>
-
-
 
     <side style="font-size: 0.9em">
       <h3 style="margin-bottom: 1em">Related notes</h3>
@@ -51,11 +41,7 @@ layout: default
       {% endif %}
     </side>
   </div>
-
 </article>
-
-
-<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
 
 <hr>
 
