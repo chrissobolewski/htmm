@@ -20,7 +20,7 @@ Resist the reviews and the YouTube videos that make you drool over the new produ
 
 Think worn out battery in your iPhone — you can go to the Apple Store and replace it for a fraction of a cost of a new phone. That's usually the smartest choice: the best use of your money and the most noticeable quality of life improvement.
 
-You can also go without. Ask yourself: *do I really need a device from this product category in my life? *
+You can also go without. Ask yourself: *do I really need a device from this product category in my life?*
 
 **You've outgrown your equipment.** This is the most satisfying way to upgrade. It's when you start to feel the limits of your gear. You begin to notice the device you have is no longer enough to deliver on your creative vision. You've hit the ceiling. You can't improve your craft unless you upgrade your equipment first.
 
