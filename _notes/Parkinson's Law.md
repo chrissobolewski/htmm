@@ -7,6 +7,9 @@ Parkinson's Law says that work expands so as to fill the time available for its 
 
 You can go even further and make it more general: every effort expands so as to fill all available resources.
 
-And then you can apply it to personal finance too: [[Lifestyle creep]].
+And then you can apply it to personal finance too — see: [[Lifestyle creep]].
 
-Source: [The Economist - Parkinson’s Law](https://www.economist.com/news/1955/11/19/parkinsons-law)
+---
+
+### References
+- [The Economist - Parkinson’s Law](https://www.economist.com/news/1955/11/19/parkinsons-law) - the original essay by Northcote Parkinson.
