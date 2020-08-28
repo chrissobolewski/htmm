@@ -108,7 +108,7 @@ console.log(nodesData);
 
     const zoomActions = () => {
       const scale = d3.event.transform;
-console.log(scale);
+console.log(scale.k);
 
       zoomLevel = scale.k;
       g.attr("transform", scale);
