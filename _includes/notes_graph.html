@@ -110,13 +110,13 @@ console.log(nodesData);
       zoomLevel = scale.k;
       g.attr("transform", scale);
 
-      const zoomOrKeep = (value) => (scale.k >= 1 ? value/2 / scale.k : value/2);
+      const zoomOrKeep = (value) => (scale.k >= 1 ? value / scale.k : value);
 
       const font = Math.max(Math.round(zoomOrKeep(FONT_SIZE)), 1);
 
       text.attr("font-size", `${font}px`);
       text.attr("y", (d) => d.y - zoomOrKeep(FONT_BASELINE));
-      link.attr("stroke-width", zoomOrKeep(STROKE));
+      link.attr("stroke-width", zoomOrKeep(STROKE)/2);
       node.attr("r", zoomOrKeep(RADIUS));
     };
 
