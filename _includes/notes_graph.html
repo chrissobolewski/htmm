@@ -79,9 +79,7 @@ console.log(nodesData);
     window.onresize = reportWindowSize;
 
     const svg = d3.select("svg")
-    .attr('width', 800)
-    .attr('height', 300)
-    .style("background", "red");
+      .attr("transform","translate(100,50)scale(.5,.5)");
     const width = Number(svg.attr("width"));
     const height = Number(svg.attr("height"));
     let zoomLevel = 1;
