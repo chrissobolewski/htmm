@@ -18,16 +18,17 @@ layout: default
   <div id="notes-entry-container">
     <content>
       {{ content }}
+      <div id="hyvor-talk-view"></div>
+      <script type="text/javascript">
+          var HYVOR_TALK_WEBSITE = 1767; // DO NOT CHANGE THIS
+          var HYVOR_TALK_CONFIG = {
+              url: '{{ page.url | absolute_url }}',
+              id: '{{page.id}}'
+          };
+      </script>
     </content>
 
-    <div id="hyvor-talk-view"></div>
-    <script type="text/javascript">
-        var HYVOR_TALK_WEBSITE = 1767; // DO NOT CHANGE THIS
-        var HYVOR_TALK_CONFIG = {
-            url: '{{ page.url | absolute_url }}',
-            id: '{{page.id}}'
-        };
-    </script>
+
 
     <side style="font-size: 0.9em">
       <h3 style="margin-bottom: 1em">Related notes</h3>
