@@ -33,5 +33,5 @@ Check how much value you've extracted from your existing device. Do a simple cal
 > It's been 3 years and 2 months since I've purchased my iPad Pro 10.5". I use it every day. I paid HK$ 6,788.00 for it. So every day of use so far has cost me HK$ 5.76. I usually permit myself to *consider* an upgrade once the cost-per-use falls below HK$ 10.00.
 
 The result of this calculation will give you a sense of the value that this specific thing is bringing into your life. It will show you what you use most often. And stuff you use the most is usually the most worthy of an upgrade:
-- you use it often, so it wears down quicker, and
+- you use it often, so it wears out quicker, and
 - you want it to be nice(r) because you interact with it often (nothing worse than a device that annoys you every day).
