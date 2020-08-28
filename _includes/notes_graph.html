@@ -101,14 +101,14 @@ console.log(nodesData);
       .stop();
 
 
-    const g = svg.append("g").attr("transform", "scale(0.3773564921301412)");
+    const g = svg.append("g");
     let link = g.append("g").attr("class", "links").selectAll(".link");
     let node = g.append("g").attr("class", "nodes").selectAll(".node");
     let text = g.append("g").attr("class", "text").selectAll(".text");
 
     const zoomActions = () => {
       const scale = d3.event.transform / 2;
-      zoomLevel = scale.k;
+      zoomLevel = scale.k / 2;
       g.attr("transform", scale);
 
       const zoomOrKeep = (value) => (scale.k >= 1 ? value / scale.k : value);
