@@ -9,6 +9,6 @@ Well... it is not. Such thinking will lead you into the [[Parkinson's Law]] trap
 
 The money you have available is the money you have allocated to spending in your [[Personal budget]] for this month. That's it.
 
-The money in your credit limit? It's not your money, it's bank's. You will have to pay it back in a month or two. 
+The money in your credit limit? It's not your money, it belongs to the bank. You will have to pay it back in a month or two if you use it. 
 
 The good way to think about spending money with your credit card is: spend as if you were to repay it today. This way you will always [[Spend less than you make]].
