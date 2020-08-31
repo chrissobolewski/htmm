@@ -12,7 +12,7 @@ Buy side companies include asset management firms, hedge funds, mutual funds, [[
 - Banks, pension funds, insurance companies.
 - Endowments and foundations.
 
-{%
+<!--
 ## Meta
 Creation date: 2020-08-31 15:45
 
@@ -21,5 +21,5 @@ Creation date: 2020-08-31 15:45
 
 ### External References
 
-%}
+-->
 

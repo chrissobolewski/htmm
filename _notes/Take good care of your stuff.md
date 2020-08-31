@@ -9,7 +9,7 @@ This way your things to last you longer. And that’s important, especially if i
 
 You want fewer things in your life, but higher quality and lasting longer. [[Be smart about your spending]] through minimizing the need for new purchases. 
 
-{%
+<!--
 ## Meta
 Creation date: 2020-08-31 10:28
 
@@ -18,4 +18,4 @@ Creation date: 2020-08-31 10:28
 
 ### External References
 
-%}
+-->
