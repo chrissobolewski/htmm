@@ -11,3 +11,5 @@ Habits compound over time. Even if you start small today, the returns will incre
 - [[Always pay your credit card balance in full]]
 - Don't give in to [[Lifestyle creep]]
 - [[Learn to live with things that are good enough]]
+- [[24-hour rule]] and [[30-day rule]]
+- [[Turn off personalized ads]]
