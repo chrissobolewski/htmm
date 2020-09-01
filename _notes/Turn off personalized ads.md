@@ -1,9 +1,12 @@
 ---
 title: Turn off personalized ads
 date: 2020-09-01 08:40:24 +0800
+image: /assets/twitter-personalized-ads-off.jpg
 ---
 
 Turn off personalized ads wherever you can. It's better for your privacy and will help you save money.
+
+![]({{page.image}})
 
 We all like to think that ads don't influence us. *I'm smarter than that!* We're being overly generous to ourselves. Ads make money. It's a billions-of-dollars industry for a reason. They work, even if you don't notice it.
 
