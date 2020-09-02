@@ -26,7 +26,7 @@ permalink: /
 - [[Credit card]]
 
 ## What's new?
-Be always up to date — subscribe to my newsletter (no spam, just relevant notifications):
+Be always up to date — subscribe to my newsletter (no spam, just relevant notifications and exclusive subscriber content):
 
 <div id="revue-embed">
   <form action="https://www.getrevue.co/profile/htmm/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
