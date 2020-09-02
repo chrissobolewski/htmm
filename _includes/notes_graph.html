@@ -169,8 +169,8 @@ d3.zoomIdentity.y = 250;
 console.log("current path=", window.location.pathname);
 
       for (var i = 0; i < nodesData.length; i++) {
-        console.log(nodesData[i].path);
-        if (isCurrentPath(nodesData[i].path)) {
+        console.log(nodesData[i].path.);
+        if (isCurrentPath(nodesData[i].pathtoLowerCase().replace(" ","%20"))) {
           setx = nodesData[i].x;
           sety = nodesData[i].y;
           console.log(setx);
