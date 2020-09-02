@@ -166,7 +166,15 @@ d3.zoomIdentity.y = 250;
       node.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
       text.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
 
-console.log(d3);
+      for (var i = 0; i < nodesData.length; i++) {
+        console.log(nodesData[i].path);
+        if (isCurrentPath(nodesData[i].path)) {
+          setx = nodesData[i].x;
+          sety = nodesData[i].y;
+          console.log(setx);
+          console.log(sety);
+        }
+      }
 
       text = text.data(nodesData, (d) => d.label);
       text.exit().remove();
