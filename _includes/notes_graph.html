@@ -164,7 +164,7 @@ d3.zoomIdentity.y = 250;
       node.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
       text.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
 
-
+/*
       for (var i = 0; i < nodesData.length; i++) {
         if (isCurrentPath(nodesData[i].path.toLowerCase().replace(" ","%20"))) {
           setx = nodesData[i].x;
@@ -175,6 +175,7 @@ d3.zoomIdentity.y = 250;
           d3.zoomIdentity.y = sety;
         }
       }
+      */
 
       text = text.data(nodesData, (d) => d.label);
       text.exit().remove();
