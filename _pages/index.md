@@ -17,6 +17,7 @@ permalink: /
 ### Learn the basics of personal finance
 - [[Spend less than you make]]
 - Build an [[Emergency fund]]
+- Cultivate [[Good financial habits]]
 
 ### Manage your personal budget
 - [[Minimalist personal budget]]
