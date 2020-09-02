@@ -52,8 +52,6 @@
     let nodesData = graphData.nodes;
     let linksData = graphData.edges;
 
-console.log(nodesData);
-
     const onClick = (d) => {
       window.location = d.path
     };
@@ -101,13 +99,13 @@ console.log(nodesData);
       .stop();
 
 // resetting default zoom level and start point, part 1
-    const g = svg.append("g").attr("transform", "translate(392, 250) scale(0.4)");
+    const g = svg.append("g").attr("transform", "translate(392, 250) scale(0.5)");
     let link = g.append("g").attr("class", "links").selectAll(".link");
     let node = g.append("g").attr("class", "nodes").selectAll(".node");
     let text = g.append("g").attr("class", "text").selectAll(".text");
 
 // resetting default zoom level and start point, part 2
-d3.zoomIdentity.k = 0.4;
+d3.zoomIdentity.k = 0.5;
 d3.zoomIdentity.x = 392;
 d3.zoomIdentity.y = 250;
 
@@ -166,15 +164,16 @@ d3.zoomIdentity.y = 250;
       node.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
       text.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
 
-console.log("current path=", window.location.pathname);
 
       for (var i = 0; i < nodesData.length; i++) {
         console.log(nodesData[i].path.);
-        if (isCurrentPath(nodesData[i].pathtoLowerCase().replace(" ","%20"))) {
+        if (isCurrentPath(nodesData[i].path.toLowerCase().replace(" ","%20"))) {
           setx = nodesData[i].x;
           sety = nodesData[i].y;
           console.log(setx);
           console.log(sety);
+          d3.zoomIdentity.x = setx;
+          d3.zoomIdentity.y = sety;
         }
       }
 
