@@ -166,6 +166,8 @@ d3.zoomIdentity.y = 250;
       node.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
       text.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
 
+console.log("current path=", window.location.pathname);
+
       for (var i = 0; i < nodesData.length; i++) {
         console.log(nodesData[i].path);
         if (isCurrentPath(nodesData[i].path)) {
