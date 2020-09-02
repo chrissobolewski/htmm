@@ -100,12 +100,13 @@ console.log(nodesData);
       .force("center", d3.forceCenter(width / 2 , height / 2)) 
       .stop();
 
-
+// resetting default zoom level and start point, part 1
     const g = svg.append("g").attr("transform", "translate(392, 250) scale(0.4)");
     let link = g.append("g").attr("class", "links").selectAll(".link");
     let node = g.append("g").attr("class", "nodes").selectAll(".node");
     let text = g.append("g").attr("class", "text").selectAll(".text");
 
+// resetting default zoom level and start point, part 2
 console.log(d3);
 d3.zoomIdentity.k = 0.4;
 d3.zoomIdentity.x = 392;
@@ -165,6 +166,8 @@ d3.zoomIdentity.y = 250;
 
       node.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
       text.attr("active", (d) => isCurrentPath(d.path.toLowerCase().replace(" ","%20")) ? true : null);
+
+console.log((d) => d.path);
 
       text = text.data(nodesData, (d) => d.label);
       text.exit().remove();
