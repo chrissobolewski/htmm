@@ -8,6 +8,7 @@ Habits compound over time. Even if you start small today, the returns will incre
 You want to take your home finances to a better place? Start with picking one habit from the list below and make it stick. Once you feel comfortable with it, pick another. Rinse and repeat.
 
 - [[Spend less than you make]]
+- Keep a [[Personal budget]]
 - Maintain an [[Emergency fund]]
 - [[Pay yourself first]]
 - [[Always pay your credit card balance in full]]
