@@ -1,4 +1,4 @@
-## 4 steps of budgeting process
+
 
 ### 1. Collect
 Collect your receipts.

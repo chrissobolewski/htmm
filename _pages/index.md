@@ -20,6 +20,7 @@ permalink: /
 - Cultivate [[Good financial habits]]
 
 ### Manage your personal budget
+- [[Personal budget]] home page
 - [[Minimalist personal budget]]
 
 ### Understand banking products and services better
