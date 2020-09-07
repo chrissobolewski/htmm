@@ -15,7 +15,7 @@ This is how you lose money every day. Does any of the below apply to you? Attack
 
 **Carrying a credit card balance.** [[Always pay your credit card balance in full]].
 
-**Having your daily coffee at a cafe.** It is *six times* less expensive to brew coffee at home. And that's with specialty, single origin coffee. There's no downside. You can have *much* better quality coffee for *much* less money. Don't say no to that.
+**Having your daily coffee at a cafe.** It is *six times* less expensive to brew coffee at home. And that's with specialty, single origin beans. There's no downside. You can have *much* better quality coffee for *much* less money. Don't say no to that.
 
 **Not negotiating.** Big-ticket items is where negotiating makes all the difference. It's a skill that will save you thousands of dollars in one single move. Negotiate when buying a car, buying a house, renting a new place, getting a mortgage. Don't know how? *Never Split the Difference* by Chris Voss is a good start.
 
