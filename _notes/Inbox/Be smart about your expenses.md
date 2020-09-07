@@ -1,5 +1,9 @@
 One of [[Good financial habits]]
 
+Healthy personal finance is about spending money wisely. But what does that mean?
+
+It's not about spending less in every [[Expense categories]]. Instead, it's about finding a few things you really care about
+
 - Don't buy bottled water
 - Don't pay for diminishing returns — after some point, the cost increase in quality increases exponentially.
 - Avoid addictive substances.

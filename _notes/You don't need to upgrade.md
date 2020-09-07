@@ -26,6 +26,8 @@ You can also go without. Ask yourself: *do I really need a device from this prod
 
 Just be careful not to fall into the trap of thinking *I can't do X because I don't have the best Y*. More often than not, you do not need *the best* thing in its category. Instead, you should look for something *good enough* to bring your game to the next level. See also: [[Learn to live with things that are good enough]].
 
+Or you don’t need a new one at all. Just because you have a writer’s block doesn’t mean you need a new keyboard.
+
 **Your gear has earned its replacement**. I call it *the test of value*. 
 
 Check how much value you've extracted from your existing device. Do a simple calculation. Take your usage frequency (daily, a couple times a week, etc.), the price you paid, and the purchase date — and see how every day of using this device costs you.
@@ -35,3 +37,5 @@ Check how much value you've extracted from your existing device. Do a simple cal
 The result of this calculation will give you a sense of the value that this specific thing is bringing into your life. It will show you what you use most often. And stuff you use the most is usually the most worthy of an upgrade:
 - you use it often, so it wears out quicker, and
 - you want it to be nice(r) because you interact with it often (nothing worse than a device that annoys you every day).
+
+Related: [[Recurring purchases are in fact subscriptions]]
