@@ -13,4 +13,4 @@ That $999 iPhone you buy every 3 years becomes a $27.75 per month affair.
 
 Framing your purchases this way will help you get a clearer picture of your monthly expenses. It will also give you an idea of how much you should save in order to be able to afford your future purchases. Lastly, it will cushion the blow of buying big ticket items — instead of a one-time shock to your [[Personal budget]], the expense will be spread over time.
 
-Try it. Look around, identify the items you're going to replace (see: [[You don't need to upgrade]]), and then see how much money you need to set aside each month to afford the purchase once the replacement is due. 
+Try it. Look around, identify the items you're going to replace (see: [[You don't need to upgrade]]), and then see how much money you need to set aside each month to afford the purchase once the replacement is due.
