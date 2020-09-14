@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_notes/Subscription audit.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -40,6 +43,14 @@
                 "query": ""
               }
             }
+          },
+          {
+            "id": "8d3037aa2df7f3a7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -60,7 +71,27 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
+              "state": {
+                "file": "_notes/Subscription audit.md"
+              }
+            }
+          },
+          {
+            "id": "aa7ed9bba51ab81d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
               "state": {}
+            }
+          },
+          {
+            "id": "9f1acaadbc00b54c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_notes/Subscription audit.md"
+              }
             }
           }
         ]
@@ -71,6 +102,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_notes/Inbox/Subscription audit.md",
+    "_notes/Take good care of your stuff.md",
+    "_notes/Inbox/Untitled.md",
+    "_notes/24-hour rule.md",
     "_notes/30-day rule.md"
   ]
 }

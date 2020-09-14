@@ -1,5 +1,5 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "pluginEnabledStatus": {
     "file-explorer": true,
     "global-search": true,
@@ -8,6 +8,16 @@
     "backlink": true,
     "command-palette": true,
     "markdown-importer": true,
-    "word-count": true
-  }
+    "word-count": true,
+    "tag-pane": true,
+    "page-preview": true,
+    "starred": true,
+    "custom-css": true,
+    "random-note": true,
+    "outline": true
+  },
+  "foldHeading": true,
+  "foldIndent": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_notes/Inbox"
 }
