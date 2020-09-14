@@ -1,0 +1,76 @@
+{
+  "main": {
+    "id": "ab41349d3a5e0cc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d484c0babd49969e",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "32e107ea83b11870",
+    "type": "split",
+    "children": [
+      {
+        "id": "6380449b302796f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64ef8434412e4c75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb053b457608a242",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "623b0bda19986a28",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bef64953c301803",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcdee9ae7b7cfc2d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "_notes/30-day rule.md"
+  ]
+}

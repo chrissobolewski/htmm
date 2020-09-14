@@ -5,7 +5,7 @@ date: 2020-09-31 14:22:09 +0800
 
 Think about the things you buy — not your everyday purchases but items that you buy every few months or every few years.
 
-That new smartphone you buy every 2-3 years. Or a new computer every 5-7 years. Headphones, tables, peripherals... I'm enumerating electronics here because that's the category that's on top of my mind. But the main point applies to others just as easily. Home appliances, cars, even clothing.
+That new smartphone you buy every 2-3 years. Or a new computer every 5-7 years. Headphones, tables, peripherals... I'm enumerating electronics here because that's the category that's on top of my mind. But the main point applies to others just as easily. Home appliances, cars, even clothing. And consumable components that you need to buy regularly, like air filters, water filters, batteries, etc.
 
 And the main point is: think about your recurring purchases as subscriptions. Even if you pay the entire amount up front.
 
