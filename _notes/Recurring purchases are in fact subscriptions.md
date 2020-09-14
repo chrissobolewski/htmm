@@ -1,6 +1,6 @@
 ---
 title: Recurring purchases are in fact subscriptions
-date: 2020-09-31 14:22:09 +0800
+date: 2020-09-14 14:22:09 +0800
 ---
 
 Think about the things you buy — not your everyday purchases but items that you buy every few months or every few years.
